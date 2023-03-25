@@ -1,0 +1,7 @@
+User-agent: *
+Disallow:/data.php/
+Disallow:/inscription.php/
+Disallow:/blog.php/
+
+
+Sitemap: http://robots-txt.com/sitemap.xml
